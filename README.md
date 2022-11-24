@@ -1,10 +1,9 @@
 # Ola! Meu nome é Efraim Nascimento Silva sou analista de qualidade de software.
 
 
-O conceito de qualidade sempre esteve presente em todos os trabalhos que já executei, porém em 2022 tive a oportunidade de conhecer a qualidade aplicada a software onde adquirir uma nova perspectiva do que é qualidade e como é importante gerenciá-la de forma responsavél e profissional utilizando boas praticas e técnicas especiais e modernas para at ingir os melhores resultados.
+O conceito de qualidade sempre esteve presente em todos os trabalhos que já executei, porém em 2022 tive a oportunidade de vivencia-lo no contexto de software. Isso me transportou para uma nova dimensão do que é qualidade e quando olho ao redor, percebo como é importante gerenciá-la de forma responsável e profissional, utilizando  boas praticas, técnicas especiais e modernas para atingir os melhores resultados. Me sinto realizado em proporcionar uma excelente experiência aos usuários que desfrutarão dos nossos softwares. A qualidade está em meu DNA e quero mostrá-la ao mundo.
 
 💡 💻💰
-
 
 
 
@@ -32,7 +31,7 @@ O conceito de qualidade sempre esteve presente em todos os trabalhos que já exe
 <div>
 
   <a href = "mailto:contatoEfraimNS@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eliabe-nascimento-silva-08093779/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/efraim-nascimento-silva-3b6324210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/EfraimNS/EfraimNS/blob/output/github-contribution-grid-snake.svg)
 
