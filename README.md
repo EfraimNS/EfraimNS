@@ -30,7 +30,7 @@ O conceito de qualidade sempre esteve presente em todos os trabalhos que já exe
 
 <div>
 
-  <a href = "mailto:efraim3116@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:efraimns300@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/efraim-nascimento-silva-3b6324210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/EfraimNS/EfraimNS/blob/output/github-contribution-grid-snake.svg)
