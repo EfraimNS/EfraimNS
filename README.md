@@ -26,7 +26,7 @@ O conceito de qualidade sempre esteve presente em todos os trabalhos que já exe
   
   <img style="margin:5px;" align="center" alt="Efraim-React" height="30" width="80" src="https://img2.gratispng.com/20181118/hje/kisspng-office-365-microsoft-office-2-19-microsoft-corpora-previous-logo-microsoft-office-logo-with-app-logo-5bf15a00c45c23.2793800015425438728043.jpg">
 
-  <img style="margin:5px;" align="center" alt="Agil" height="40" width="80" src="https://proj4.me/wp-content/uploads/2020/08/Metodologia-agil.png">
+  <img style="margin:5px;" align="center" alt="Efraim-Agil" height="40" width="80" src="https://proj4.me/wp-content/uploads/2020/08/Metodologia-agil.png">
   
 </div>
 
