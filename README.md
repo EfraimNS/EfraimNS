@@ -1,6 +1,6 @@
 # Ola! Meu nome é Efraim Nascimento Silva sou Analista de Qualidade de Software.
 
-O conceito de qualidade sempre esteve presente em todos os trabalhos que já , porém em 2022 tive a oportunidade de vivencia-lo no contexto de software. Isso me transportou para uma nova dimensão do que é qualidade e quando olho ao redor, percebo como é importante gerenciá-la de forma responsável e profissional, utilizando  boas praticas, técnicas especiais e modernas para atingir os melhores resultados. Me sinto realizado em proporcionar uma excelente experiência aos usuários que desfrutarão dos nossos softwares. A qualidade está em meu DNA e quero mostrá-la ao mundo.
+O conceito de qualidade sempre esteve presente em todos os trabalhos que já executei, porém em 2022 tive a oportunidade de vivencia-lo no contexto de software. Isso me transportou para uma nova dimensão do que é qualidade e quando olho ao redor, percebo como é importante gerenciá-la de forma responsável e profissional, utilizando  boas praticas, técnicas especiais e modernas para atingir os melhores resultados. Me sinto realizado em proporcionar uma excelente experiência aos usuários que desfrutarão dos nossos softwares. A qualidade está em meu DNA e quero mostrá-la ao mundo.
 
 💡 💻💰
 
